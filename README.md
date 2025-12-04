@@ -77,4 +77,4 @@ src/firebase/config.ts
 
 ---
 
-Platform-Based Programming (PBP) – Mobile App Project
+Platform-Based Development (PBP) – Mobile App Project
