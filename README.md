@@ -67,9 +67,16 @@ src/
 
 ---
 
+## 🔒 Login Details
+
+| Field | Detail |
+| :--- | :--- |
+| **Username (Email)** | `user@gmail.com` |
+| **Password** | `111111` |
+
 ## 🔧 Environment Setup
 
-If you use Firebase, create a `.env` file or include your config directly in:
+If you use Firebase, the config directly in:
 
 ```
 src/firebase/config.ts
